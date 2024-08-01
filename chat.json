@@ -3,6 +3,15 @@
         "role": "user",
         "content": "add a navbar with the fields home, about and contact",
         "message_id": "mymessageid",
+        "timestamp": "01082024054033",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the fields home, about and contact",
+        "message_id": "mymessageid",
         "timestamp": "01082024053204",
         "component_file_name": null,
         "div_id": null,
