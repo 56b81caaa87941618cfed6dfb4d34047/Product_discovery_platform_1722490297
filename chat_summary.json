@@ -24,5 +24,11 @@
         "content": "can you describe the project a bit more?",
         "timestamp": "01082024054033",
         "message_id": "mymessageid"
+    },
+    {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "timestamp": "01082024054033",
+        "message_id": "mymessageid"
     }
 ]
